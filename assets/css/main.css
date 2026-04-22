@@ -657,15 +657,15 @@ section,
 --------------------------------------------------------------*/
 .section-title {
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 10px;
   position: relative;
 }
 
 .section-title h2 {
   font-size: 32px;
   font-weight: 700;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
   position: relative;
 }
 
@@ -1568,12 +1568,12 @@ body:not(.index-page) .section .container::before {
 
 /* ================= JARAK ANTAR SECTION ================= */
 .section {
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 /* ================= SECTION TITLE ================= */
 .section-title {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
